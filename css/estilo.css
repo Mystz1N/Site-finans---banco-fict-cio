@@ -1,0 +1,35 @@
+#home {
+	background: #ffc107;
+	color: white;
+	text-decoration: none;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #ff0202;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+.rodape{
+	text-align: center;
+	color: #ffc107;
+	
+}
+
+.rodape a{
+	text-align: center;
+	color: #e6ff03;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+footer .rodape{
+	text-align: center;
+	color: #eeff02;
+	font-size: 30px;
+	border: #ffc107;
+}
+
